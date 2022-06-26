@@ -1,0 +1,109 @@
+	.heading{
+		border: none;
+		text-align: left;
+		font-family: 'Lexand Deca', sans-serif;
+		position: relative;
+		top: 20px;
+		width: 210px;
+		left: 25px;
+		color: hsl(0, 0%, 100%);
+		
+	}
+	
+	.note{
+		border: none;
+		text-align: left;
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 8px;
+		font-weight: 100;
+		position: relative;
+		top: 20px;
+		width: 230px;
+		left: 25px;
+		color: hsl(0, 0%, 100%, 0.75);
+	}
+	
+	.ten{
+		font-size: 12px;
+		font-family: 'Lexand Deca', sans-serif;
+		position: relative;
+		right: 76px;
+		top: 40px;
+		color: hsl(0, 0%, 100%);
+	}
+	
+	.flow{
+		font-size: 12px;
+		font-family: 'Lexand Deca', sans-serif;
+		position: relative;
+		right: 35px;
+		top: 40px;
+		color: hsl(0, 0%, 100%);
+	}
+	
+	.ratio{
+		font-size: 12px;
+		font-family: 'Lexand Deca', sans-serif;
+		position: relative;
+		left: 5px;
+		top: 40px;
+		color: hsl(0, 0%, 100%);
+	}
+	
+	#inc{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 6px;
+		font-weight: 100;
+		position: relative;
+		right: 100px;
+		top: 30px;
+		color: hsla(0, 0%, 100%, 0.6);
+	}
+	
+	#plates{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 6px;
+		font-weight: 100;
+		position: relative;
+		right: 30px;
+		top: 9px;
+		color: hsla(0, 0%, 100%, 0.6);
+		
+	}
+	
+	#iss{
+		font-family: 'Lexand Deca', sans-serif;
+		font-size: 6px;
+		font-weight: 100;
+		position: relative;
+		left: 32px;
+		color: hsla(0, 0%, 100%, 0.6);
+		bottom: 12px;
+	}
+	
+	.box-i{
+		border: 1px solid;
+		width: 290px;
+		background-color: hsl(244, 38%, 16%);
+		position: relative;
+		top: 198px;
+		left: 285px;
+		height: 210px;
+		border-top-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+	
+	.head-img{
+		position: relative;
+		left: 280px;
+		top: 200px;
+		border-top-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+		filter: grayscale(100%) brightness(60%) sepia(50%) hue-rotate(-100deg) saturate(500%) contrast(1);
+	}
+	
+	.main-box{
+		border: 1px solid;
+		background-color: hsl(233, 47%, 7%);
+		height: 550px;
+	}
